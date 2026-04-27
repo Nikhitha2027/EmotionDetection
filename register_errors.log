@@ -1,0 +1,5 @@
+2026-03-26T14:54:52.854264 - {"username": [{"message": "A user with that username already exists.", "code": "unique"}]}
+2026-03-26T14:56:26.891292 - {"password2": [{"message": "The password is too similar to the username.", "code": "password_too_similar"}]}
+2026-04-27T12:58:46.179814 - {"password2": [{"message": "The password is too similar to the username.", "code": "password_too_similar"}, {"message": "This password is too short. It must contain at least 8 characters.", "code": "password_too_short"}]}
+2026-04-27T13:09:51.315954 - {"password2": [{"message": "The password is too similar to the username.", "code": "password_too_similar"}, {"message": "This password is too common.", "code": "password_too_common"}]}
+2026-04-27T13:29:40.748245 - {"username": [{"message": "A user with that username already exists.", "code": "unique"}]}
